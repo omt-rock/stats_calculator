@@ -37,7 +37,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/stats_calculator.git
+git clone https://github.com/omt-rock/stats_calculator.git
 cd stats_calculator
 
 # Create & activate a virtual environment
